@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Custom ignores of HUGE asset packs
+Content/CT_Components
+Content/Deko_MatrixDemo
+Content/IndustryPropsPack6
+Content/LPGenericPropsSet02
+Content/LPGenericPropsSet04
+Content/Scene_Junkyard
+Content/Scene_QuarrySlate
+
